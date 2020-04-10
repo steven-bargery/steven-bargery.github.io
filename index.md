@@ -11,6 +11,13 @@ Here is a list of my GitHub projects I have been working on:
 
 ## My Blog
 I am blogging my journey of learning GitHub
+<ul>  
+  {% for post in site.posts %}    
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>  
+  {% endfor %}
+</ul>
 
 ## Get in Touch
 <ul>
