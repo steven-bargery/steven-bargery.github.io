@@ -8,6 +8,9 @@ I enjoy keeping fit whether it be visiting the local kickboxing gym or hiking in
 
 ## My Projects
 Here is a list of my GitHub projects I have been working on:
+<ul>
+  <li><a href="https://steven-bargery.github.io/HelloWorld/">Hello World Project</a></li> <li><a href="https://github.com/steven-bargery/Grand-National-Sweepstake">Grand National Sweepstake Repo</a></li>
+</ul>
 
 ## My Blog
 I am blogging my journey of learning GitHub
